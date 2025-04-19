@@ -1,0 +1,3 @@
+/Users/alex/Documents/Programming/cpplearn/number-guessing/cmake-build-debug/CMakeFiles/number_guessing.dir
+/Users/alex/Documents/Programming/cpplearn/number-guessing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex/Documents/Programming/cpplearn/number-guessing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

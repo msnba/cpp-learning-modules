@@ -1,0 +1,3 @@
+/Users/alex/Documents/Programming/cpplearn/tempurature-conversion/cmake-build-debug/CMakeFiles/tempurature_conversion.dir
+/Users/alex/Documents/Programming/cpplearn/tempurature-conversion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex/Documents/Programming/cpplearn/tempurature-conversion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

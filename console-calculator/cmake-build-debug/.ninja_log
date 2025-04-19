@@ -1,0 +1,9 @@
+# ninja log v6
+1	562	1744807809513150920	CMakeFiles/console_calculator.dir/main.cpp.o	536b18b38c7d4608
+563	649	1744807810075072576	console_calculator	985dd67ed4e15a19
+6	373	1744807837721197484	CMakeFiles/console_calculator.dir/main.cpp.o	536b18b38c7d4608
+373	400	1744807838088956000	console_calculator	985dd67ed4e15a19
+5	376	1744807849476987408	CMakeFiles/console_calculator.dir/main.cpp.o	536b18b38c7d4608
+376	403	1744807849847165786	console_calculator	985dd67ed4e15a19
+10	465	1744913960918859654	CMakeFiles/console_calculator.dir/main.cpp.o	536b18b38c7d4608
+465	568	1744913961374025265	console_calculator	985dd67ed4e15a19
