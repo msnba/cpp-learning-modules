@@ -1,0 +1,3 @@
+/Users/alex/Documents/Programming/cpp-learning-modules/messing-with-pointers/cmake-build-debug/CMakeFiles/messing_with_pointers.dir
+/Users/alex/Documents/Programming/cpp-learning-modules/messing-with-pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex/Documents/Programming/cpp-learning-modules/messing-with-pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
